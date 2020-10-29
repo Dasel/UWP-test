@@ -1,0 +1,14 @@
+{
+    "name": "Game",
+    "references": [
+        "GUID:9bb6bb12c2633664ea78b7d4d4d77a06"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
